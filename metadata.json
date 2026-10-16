@@ -1,0 +1,6 @@
+{
+  "name": "HIDUP? - Asisten Wasiat & Penjaga Digital",
+  "description": "Asisten Wasiat & Penjaga Digital AI untuk mengolah data warisan digital pengguna yang tidak aktif dengan tenang, empatik, aman, dan berlandaskan protokol Guardian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
